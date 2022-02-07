@@ -6,7 +6,7 @@ sites:
   - name: TEPUY
     url: https://tepuy.site
   - name: ST37 Home
-    url: https://st37.fr
+    url: https://www.st37.fr
   - name:ST37 Skouting
     url: https://skouting.st37.fr
   - name: ST37 Engarde Service
@@ -15,7 +15,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: uptime.tepuy.site/
+  cname: uptime.tepuy.site
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
