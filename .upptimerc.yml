@@ -5,11 +5,11 @@ repo: upptime # The name of this repository
 sites:
   - name: TEPUY
     url: https://tepuy.site
-  - name: ST37 | Home
+  - name: ST37 Home
     url: https://st37.fr
-  - name:ST37 | Skouting
+  - name:ST37 Skouting
     url: https://skouting.st37.fr
-  - name: ST37 | Engarde Service
+  - name: ST37 Engarde Service
     url: https://engarde-service.com
 
 status-website:
