@@ -11,6 +11,12 @@ sites:
     url: https://skouting.st37.fr
   - name: ST37 Engarde Service
     url: https://engarde-service.com
+  - name: ST37 Engarde Escrime
+    url: https://www.engarde-escrime.com
+  - name: ST37 Paasport
+    url: https://www.paasport.st37.fr/
+  - name: ST37 Skouting Industrie
+    url: https://www.industrie.st37.fr/
 
 assignees:
   - figueredoalvarez
@@ -27,8 +33,8 @@ status-website:
   navbar:
     - title: Status
       href: /
-#    - title: GitHub
-#      href: https://github.com/$OWNER/$REPO
+    - title: TEPUY
+      href: https://tepuy.site
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration.
