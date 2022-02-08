@@ -7,10 +7,13 @@ sites:
     url: https://tepuy.site
   - name: ST37 Home
     url: https://www.st37.fr
-  - name:ST37 Skouting
+  - name: ST37 Skouting
     url: https://skouting.st37.fr
   - name: ST37 Engarde Service
     url: https://engarde-service.com
+
+assignees:
+  - figueredoalvarez
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
