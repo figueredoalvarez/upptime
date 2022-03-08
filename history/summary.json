@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/tepuy.site",
     "slug": "tepuy",
     "status": "down",
-    "uptime": "45.85%",
+    "uptime": "45.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "45.85%",
-    "uptimeYear": "45.85%",
+    "uptimeMonth": "45.38%",
+    "uptimeYear": "45.38%",
     "time": 149,
     "timeDay": 110,
     "timeWeek": 194,
     "timeMonth": 154,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2022-03-08": 708,
+      "2022-03-08": 1129,
       "2022-03-07": 1440,
       "2022-03-06": 1440,
       "2022-03-05": 1440,
@@ -48,7 +48,7 @@
     "time": 2501,
     "timeDay": 1773,
     "timeWeek": 3136,
-    "timeMonth": 2547,
+    "timeMonth": 2507,
     "timeYear": 2501,
     "dailyMinutesDown": {
       "2022-03-02": 54
@@ -68,7 +68,7 @@
     "time": 150,
     "timeDay": 117,
     "timeWeek": 105,
-    "timeMonth": 125,
+    "timeMonth": 126,
     "timeYear": 150,
     "dailyMinutesDown": {}
   },
@@ -86,7 +86,7 @@
     "time": 696,
     "timeDay": 628,
     "timeWeek": 826,
-    "timeMonth": 694,
+    "timeMonth": 682,
     "timeYear": 696,
     "dailyMinutesDown": {}
   },
@@ -96,15 +96,15 @@
     "icon": "https://favicons.githubusercontent.com/www.engarde-escrime.com",
     "slug": "st-37-engarde-escrime",
     "status": "up",
-    "uptime": "99.55%",
+    "uptime": "99.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.55%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
     "time": 1011,
     "timeDay": 1005,
     "timeWeek": 1521,
-    "timeMonth": 1021,
+    "timeMonth": 1011,
     "timeYear": 1011,
     "dailyMinutesDown": {
       "2022-02-23": 180
@@ -116,19 +116,17 @@
     "icon": "https://favicons.githubusercontent.com/www.paasport.st37.fr",
     "slug": "st-37-paasport",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 584,
     "timeDay": 283,
     "timeWeek": 323,
-    "timeMonth": 598,
+    "timeMonth": 578,
     "timeYear": 584,
-    "dailyMinutesDown": {
-      "2022-03-08": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ST37 Skouting Industrie",
@@ -136,36 +134,36 @@
     "icon": "https://favicons.githubusercontent.com/www.industrie.st37.fr",
     "slug": "st-37-skouting-industrie",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 576,
     "timeDay": 282,
     "timeWeek": 315,
-    "timeMonth": 590,
+    "timeMonth": 559,
     "timeYear": 576,
-    "dailyMinutesDown": {
-      "2022-03-08": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ST37 AI",
     "url": "http://aist.st37.fr",
     "icon": "https://favicons.githubusercontent.com/aist.st37.fr",
     "slug": "st-37-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 244,
     "timeDay": 177,
     "timeWeek": 253,
-    "timeMonth": 244,
+    "timeMonth": 242,
     "timeYear": 244,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-08": 0
+    }
   }
 ]
