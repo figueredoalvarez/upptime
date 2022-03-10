@@ -18,7 +18,9 @@ sites:
   - name: ST37 Skouting Industrie
     url: https://www.industrie.st37.fr
   - name: ST37 AI
-    url: http://aist.st37.fr    
+    check: "tcp-ping"
+    url: aist.st37.fr
+    port: 9999   
 
 assignees:
   - figueredoalvarez
