@@ -17,7 +17,7 @@ sites:
     url: https://www.paasport.st37.fr
   - name: ST37 Skouting Industrie
     url: https://www.industrie.st37.fr
-  - name: ST37 AI
+  - name: ST37 AI test
     check: "tcp-ping"
     url: aist.st37.fr
     port: 9999   
@@ -31,9 +31,10 @@ status-website:
   cname: uptime.tepuy.site
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page."
+  name: Uptime
+  introTitle: "**Uptime** status page TEPUY projects."
   introMessage: Status page which uses **real-time** 
+  theme: dark
   navbar:
     - title: Status
       href: /
