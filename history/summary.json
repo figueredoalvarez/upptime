@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/tepuy.site",
     "slug": "tepuy",
     "status": "up",
-    "uptime": "69.94%",
+    "uptime": "70.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.27%",
-    "uptimeYear": "69.94%",
+    "uptimeMonth": "87.33%",
+    "uptimeYear": "70.11%",
     "time": 171,
     "timeDay": 92,
     "timeWeek": 189,
@@ -81,10 +81,10 @@
     "url": "https://engarde-service.com",
     "icon": "https://favicons.githubusercontent.com/engarde-service.com",
     "slug": "st-37-engarde-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 755,
@@ -92,7 +92,9 @@
     "timeWeek": 768,
     "timeMonth": 814,
     "timeYear": 755,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-06": 1
+    }
   },
   {
     "name": "ST37 Engarde Escrime",
